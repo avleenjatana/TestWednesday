@@ -16,6 +16,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * showing push request
  * making a change in NetBeans file
  * making a change in GitHub file
+ * checking fetch and merge
  */
 public class Student 
 {
