@@ -15,6 +15,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * this change is made
  * showing push request
  * making a change in NetBeans file
+ * making a change in GitHub file
  */
 public class Student 
 {
